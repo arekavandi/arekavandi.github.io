@@ -10,7 +10,7 @@ redirect_from:
 
 I am  currently a Research Fellow at the Department of Computer Science and Software Engineering, the University of Western Australia working with [Prof. Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun) and  [Prof. Farid Boussaid](https://research-repository.uwa.edu.au/en/persons/farid-boussaid) on several ML/DL projects including Visual Positioning Systems, Small Object Detection, Suicie Prediction, etc.
 
-I received my PhD degree from the University of Melbourne in the area of robust signal and image processing, applicble to brain activity detection under supervision of [Prof. Robin J. Evans](https://findanexpert.unimelb.edu.au/profile/14757-robin-evans) and [A/Prof. Karim Seghouane](https://findanexpert.unimelb.edu.au/profile/470194-karim-seghouane). I have been also involved in developing new signal processing methods in the area of Canonical Correlation Analysis (CCA), Sparse Dictionary Learning (SDL), and Subspace Tracking Systems. 
+I received my PhD degree from the University of Melbourne in the area of robust signal and image processing, applicble to brain activity detection under supervision of [Prof. Robin J. Evans](https://findanexpert.unimelb.edu.au/profile/14757-robin-evans) and [A/Prof. Karim Seghouane](https://findanexpert.unimelb.edu.au/profile/470194-karim-seghouane). I have also been involved in developing new signal processing methods in the area of Canonical Correlation Analysis (CCA), Sparse Dictionary Learning (SDL), and Subspace Tracking Systems. 
 I received my MSc and BSc degrees from [Tehran Polytechnique](https://aut.ac.ir/en) and [KN Toosi](https://aut.ac.ir/en) univesities both in electrical and electronic engineering.
 
 
