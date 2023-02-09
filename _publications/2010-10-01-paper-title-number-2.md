@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 2"
+title: "Medical image denoising based on 2D discrete cosine transform via ant colony optimization"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Aref Miri Rekavandi, Saeed Sharifian, Shima Rashidi, and Madjid Ghods'
+date: 2018-03-01
+venue: 'Optik'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Paper](https://www.sciencedirect.com/science/article/pii/S0030402617316881)
