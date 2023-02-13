@@ -19,4 +19,4 @@ News
 * 2/2023: I have been appointed as the visiting scholar working with [Prof. Philip Torr](https://www.robots.ox.ac.uk/~phsta) at University of Oxford.
 * 1/2023: Our grant proposal: "Analytics for the Australian Grains Industry (AAGI)" is successfully accepted for Associate Partnership level.  
 * 12/2022: We have discussed recent advances in small object detection in our workshop held in conjunction with ACCV2022. ([Link](https://sites.google.com/view/dlsod2022/home))
-* 3/2022: I have been appointed as the visiting scholar working with [A/Prof. Karim Seghhttps://findanexpert.unimelb.edu.au/profile/470194-karim-seghouaneouane](https://findanexpert.unimelb.edu.au/profile/470194-karim-seghouane) at School of Mathematics and Statistics, The University of Melburne.
+* 3/2022: I have been appointed as the visiting scholar working with [A/Prof. Karim Seghouane](https://findanexpert.unimelb.edu.au/profile/470194-karim-seghouane) at School of Mathematics and Statistics, The University of Melburne.
