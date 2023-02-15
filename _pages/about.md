@@ -13,6 +13,9 @@ I am  currently a Research Fellow at the Department of Computer Science and Soft
 I received my PhD degree from the University of Melbourne in the area of robust signal and image processing, applicble to brain activity detection ([Thesis](https://minerva-access.unimelb.edu.au/items/b416654e-6339-5299-93fb-98aebcb3f30f)) under supervision of [Prof. Robin J. Evans](https://findanexpert.unimelb.edu.au/profile/14757-robin-evans) and [A/Prof. Karim Seghouane](https://findanexpert.unimelb.edu.au/profile/470194-karim-seghouane). I have also been involved in developing new signal processing methods in the area of Canonical Correlation Analysis (CCA), Sparse Dictionary Learning (SDL), and Subspace Tracking Systems. 
 I received my MSc and BSc degrees from [Tehran Polytechnique](https://aut.ac.ir/en) and [KN Toosi](https://aut.ac.ir/en) univesities both in electrical and electronic engineering.
 
+Research Interests
+-----
+Image Processing, Signal Processing, Computer Vision, Medical Imaging, and Biomedical Data Analysis.
 
 News
 ======
