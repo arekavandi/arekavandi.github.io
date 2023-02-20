@@ -19,7 +19,6 @@ Image Processing, Signal Processing, Computer Vision, Medical Imaging, and Biome
 
 News
 ======
-* 2/2023: I have been appointed as the visiting scholar working with [Prof. Philip Torr](https://www.robots.ox.ac.uk/~phsta) at University of Oxford.
 * 2/2023: Two accepted papers for presentation at ICASSP 2023.
 * 1/2023: Our grant proposal: "Analytics for the Australian Grains Industry (AAGI)" is successfully accepted for Associate Partnership level.  
 * 12/2022: We have discussed recent advances in small object detection in our workshop held in conjunction with ACCV2022. ([Link](https://sites.google.com/view/dlsod2022/home))
