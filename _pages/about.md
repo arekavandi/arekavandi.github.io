@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am  currently a Research Fellow at the Department of Computer Science and Software Engineering, the University of Western Australia working with [Prof. Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun) and  [Prof. Farid Boussaid](https://research-repository.uwa.edu.au/en/persons/farid-boussaid) on several ML/DL projects including Visual Positioning Systems, Small Object Detection, Suicide Prediction, etc.
+I am  currently a Visiting Researcher at University of Oxford working with [Prof. Saad Jbabdi](https://www.ndcn.ox.ac.uk/team/saad-jbabdi) and a Research Fellow at the Department of Computer Science and Software Engineering, the University of Western Australia working with [Prof. Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun) and  [Prof. Farid Boussaid](https://research-repository.uwa.edu.au/en/persons/farid-boussaid) on several ML/DL projects including Visual Positioning Systems, Small Object Detection, Suicide Prediction, etc.
 
 I received my PhD degree from the University of Melbourne in the area of robust signal and image processing, applicble to brain activity detection ([Thesis](https://minerva-access.unimelb.edu.au/items/b416654e-6339-5299-93fb-98aebcb3f30f)) under the supervision of [Prof. Robin J. Evans](https://findanexpert.unimelb.edu.au/profile/14757-robin-evans) and [A/Prof. Karim Seghouane](https://findanexpert.unimelb.edu.au/profile/470194-karim-seghouane). I have also been involved in developing new signal processing methods for Canonical Correlation Analysis (CCA), Sparse Dictionary Learning (SDL), and Subspace Tracking Systems. 
 I received my MSc and BSc degrees from [Tehran Polytechnique](https://aut.ac.ir/en) and [KN Toosi](https://aut.ac.ir/en) univesities of technnology both in electrical and electronic engineering.
@@ -19,6 +19,7 @@ Image Processing, Signal Processing, Computer Vision, Medical Imaging, and Biome
 
 News
 ======
+* 4/2023: Our paper on pose estimation has been accepted in Pattern Recognition.
 * 3/2022: I have been appointed as a Visiting Researcher working with [Prof. Saad Jbabdi](https://www.ndcn.ox.ac.uk/team/saad-jbabdi) at Nuffield Department of Clinical Neurosciences, Medical School Devision, University of Oxford.
 * 2/2023: Two accepted papers for presentation at ICASSP 2023.
 * 1/2023: Our grant proposal: "Analytics for the Australian Grains Industry (AAGI)" is successfully accepted for Associate Partnership level.  
