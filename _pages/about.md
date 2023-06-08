@@ -21,7 +21,7 @@ News
 ======
 * 6/2023: Our paper on Robust Block-Structured Dictionary Learning (RBDL) has been accepted in Pattern Recognition Letters.
 * 4/2023: Our paper on pose estimation has been accepted in Pattern Recognition.
-* 3/2022: I have been appointed as a Visiting Researcher working with [Prof. Saad Jbabdi](https://www.ndcn.ox.ac.uk/team/saad-jbabdi) at Nuffield Department of Clinical Neurosciences, Medical School Devision, University of Oxford.
+* 3/2023: I have been appointed as a Visiting Researcher working with [Prof. Saad Jbabdi](https://www.ndcn.ox.ac.uk/team/saad-jbabdi) at Nuffield Department of Clinical Neurosciences, Medical School Devision, University of Oxford.
 * 2/2023: Two accepted papers for presentation at ICASSP 2023.
 * 1/2023: Our grant proposal: "Analytics for the Australian Grains Industry (AAGI)" is successfully accepted for Associate Partnership level.  
 * 12/2022: We have discussed recent advances in small object detection in our workshop held in conjunction with ACCV2022. ([Link](https://sites.google.com/view/dlsod2022/home))
