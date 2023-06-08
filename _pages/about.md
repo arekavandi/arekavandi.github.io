@@ -19,6 +19,7 @@ Image Processing, Signal Processing, Computer Vision, Medical Imaging, and Biome
 
 News
 ======
+* 6/2023: Our paper on Robust Block-Structured Dictionary Learning (RBDL) has been accepted in Pattern Recognition Letters.
 * 4/2023: Our paper on pose estimation has been accepted in Pattern Recognition.
 * 3/2022: I have been appointed as a Visiting Researcher working with [Prof. Saad Jbabdi](https://www.ndcn.ox.ac.uk/team/saad-jbabdi) at Nuffield Department of Clinical Neurosciences, Medical School Devision, University of Oxford.
 * 2/2023: Two accepted papers for presentation at ICASSP 2023.
