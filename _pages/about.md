@@ -19,6 +19,7 @@ Image Processing, Signal Processing, Computer Vision, Medical Imaging, and Biome
 
 News
 ======
+* 8/2023: Our paper on Bayesian Pose Estimation has been accepted in IEEE RA-L.
 * 6/2023: Our paper on Subspace Tracking Systems has been accepted in IEEE TSP.
 * 6/2023: Our paper on Robust Block-Structured Dictionary Learning (RBDL) has been accepted in Pattern Recognition Letters.
 * 4/2023: Our paper on pose estimation has been accepted in Pattern Recognition.
