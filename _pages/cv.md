@@ -11,7 +11,7 @@ redirect_from:
 
 Academic Roles
 ======
-* Research Fellow at Computer Science and Software Engineering, The Unversity of Western Australia, Sep. 2022 - Present.
+* Research Fellow at Computer Science and Software Engineering, The Unversity of Western Australia, Sep. 2021 - Present.
 * Guest Academic at School of Mathematics and Statistics, The University of Melbourne, March 2022 - Present.
 * Visiting Researcher at Nuffield Department of Clinical Neurosciences , University of Oxford, May 2023 - July 2023. 
 
