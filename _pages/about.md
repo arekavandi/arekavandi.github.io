@@ -19,7 +19,7 @@ Image Processing, Deep Learning, Robust Signal Processing, Computer Vision, Medi
 
 News
 ======
-* 10/2023: I have been appointed as a Postdoctoral Research Fellow working with "CATCH" centre at CIS Schoold, The University of Melbourne.
+* 10/2023: I have been appointed as a Postdoctoral Research Fellow working with "CATCH" centre at CIS School, The University of Melbourne.
 * 9/2023: Our survey paper on transformers in small object detection is now online. ([Link](https://arxiv.org/abs/2309.04902))
 * 8/2023: Our paper on Bayesian Pose Estimation has been accepted in IEEE RA-L. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-15/))
 * 6/2023: Our paper on Subspace Tracking Systems has been accepted in IEEE TSP. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-14/))
