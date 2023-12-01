@@ -24,6 +24,8 @@ PhD Students
 Ashkan Taghipour, PhD student at the Department of Computer Science and Software
 Engineering, The University of Western Australia.
 Project: Visual Stories from Free-Form Language with Generative Models.
+
+
 News
 ======
 * 10/2023: I have been appointed as a Postdoctoral Research Fellow working with "CATCH" centre at CIS School, The University of Melbourne.
