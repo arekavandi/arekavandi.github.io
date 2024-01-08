@@ -30,7 +30,16 @@ Selected Publications
 -----
 
 
-
+<table >
+<tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/RST.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong>  TRPAST: A tunable and robust projection approximation subspace tracking method </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, A.K. Seghouane, & K. Abed-Meraim<br>
+<i> <strong>IEEE Transactions on Signal Processing</strong>, 2023 </i> <br>
+<a href="https://ieeexplore.ieee.org/abstract/document/10164018" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a>  <a href="https://github.com/arekavandi/TRPAST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> </p> </td> 
+</tr>
+</tbody>
+</table>
 
 
 <table >
