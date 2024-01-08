@@ -29,6 +29,18 @@ Project: Visual Stories from Free-Form Language with Generative Models.
 Selected Publications
 -----
 
+<table >
+<tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/BPOSE.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> B-Pose: Bayesian Deep Network for Camera 6-DoF Pose Estimation from RGB Images </strong>  <br> <span style="text-decoration:underline">A.M. Rekavandi</span>, F. Boussaid, A.K. Seghouane, & M. Bennamoun<br>
+<i> <strong>IEEE Robotics and Automation Letters</strong>, 2023 </i> <br>
+<a href="https://ieeexplore.ieee.org/abstract/document/10242363" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
+<a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.21951398.v1" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/arekavandi/BPose" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a> </p> </td> 
+</tr>
+</tbody>
+</table>
+
 
 <table >
 <tbody>
