@@ -34,7 +34,7 @@ Selected Publications
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  Robust Subspace Detectors Based on α-Divergence With Application to Detection in Imaging </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, A.K. Seghouane, & R.J. Evans<br>
 <i> <strong>IEEE Transactions on Image Processing</strong>, 2021 </i> <br>
-<a href="https://ieeexplore.ieee.org/abstract/document/9426446" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a> <a href="https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335" style="color: green; text-decoration: none;"><i class="fas fa-fw fa-external-link-square-alt zoom"></i>TechRxiv</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/aFAPI" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> </p> </td> 
+<a href="https://ieeexplore.ieee.org/abstract/document/9426446" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a>  <a href="https://github.com/arekavandi/Robust_Subspace_Detector" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> </p> </td> 
 </tr>
 </tbody>
 </table>
