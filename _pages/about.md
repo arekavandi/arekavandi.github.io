@@ -30,7 +30,7 @@ Selected Publications
 -----
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/RSD.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/RSD.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  Robust Subspace Detectors Based on α-Divergence With Application to Detection in Imaging </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, A.K. Seghouane, & R.J. Evans<br>
 <i> <strong>IEEE Transactions on Image Processing</strong>, 2021 </i> <br>
