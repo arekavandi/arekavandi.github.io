@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am  currently a Research Fellow in AI-human Teams for Cybersecurity within the School of Computing and Information Systems at [The University of Melbourne](https://cis.unimelb.edu.au/). Prior to this role, I was a Postdoctoral Researcher at the Department of Computer Science and Software Engineering at [The University of Western Australia](https://www.uwa.edu.au/schools/physics-mathematics-computing/department-of-computer-science-and-software-engineering) from 2021 to 2023. My primary area of research centers around robust learning and estimation, encompassing experience in a variety of projects, including but not limited to developing Visual Positioning Systems, Small Object Detection, Suicide Prediction, and Diffusion Models. 
+I am  currently a senior postdoctoral researcher at Wellcome Centre for Integrative Neuroimaging (WIN), at [The University of Oxford](https://www.win.ox.ac.uk/) working with a fantastic team of scientists on brain connectivity (cross scpecies, region to region) models using signal processing and AI. Prior to this role, I was a Research Fellow in AI-human Teams for Cybersecurity within the School of Computing and Information Systems at [The University of Melbourne](https://cis.unimelb.edu.au/) (Nov. 2023 - March 2024) and a Postdoctoral Researcher at the Department of Computer Science and Software Engineering at [The University of Western Australia](https://www.uwa.edu.au/schools/physics-mathematics-computing/department-of-computer-science-and-software-engineering) (Sept. 2021 - Oct. 2024). My primary area of research centers around robust learning and estimation, encompassing experience in a variety of projects, including but not limited to developing Visual Positioning Systems, Small Object Detection, Brain Activity Detection, Suicide Prediction, and Diffusion Models. 
 
 I had the opportunity to be a Visiting Researcher at Wellcome Centre for Integrative Neuroimaging, at [The University of Oxford](https://www.win.ox.ac.uk/), where I contributed to brain comparative analysis model for joint species analysis. I was also a Visiting Researcher at the School of Mathematics and Statistics at [The University of Melbourne](https://ms.unimelb.edu.au/), where I was involved in developing Statistical Signal Processing techniques for electronic systems.
 
@@ -80,6 +80,7 @@ Selected Publications
 
 News
 ======
+* 3/2024: I have been appointed as a Senior Postdoctoral Researcher at Nuffield Department of Clinical Neurosciences, Medical School Devision, University of Oxford.
 * 10/2023: I have been appointed as a Postdoctoral Research Fellow working with "CATCH" centre at CIS School, The University of Melbourne.
 * 9/2023: Our survey paper on transformers in small object detection is now online. ([Link](https://arxiv.org/abs/2309.04902))
 * 8/2023: Our paper on Bayesian Pose Estimation has been accepted in IEEE RA-L. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-15/))
