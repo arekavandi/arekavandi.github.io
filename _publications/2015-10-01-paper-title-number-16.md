@@ -1,7 +1,7 @@
 ---
 title: "Analysis and evaluation of explainable artificial intelligence on suicide risk assessment"
 collection: publications
-excerpt: 'Hao Tang*, Aref Miri Rekavandi*, Dharjinder Rooprai, Girish Dwivedi, Frank M. Sanfilippo, Farid Boussaid and Mohammed Bennamoun'
+excerpt: 'Hao Tang, Aref Miri Rekavandi, Dharjinder Rooprai, Girish Dwivedi, Frank M. Sanfilippo, Farid Boussaid and Mohammed Bennamoun'
 date: 2024-03-15
 venue: 'Scientific Reports'
 ---
