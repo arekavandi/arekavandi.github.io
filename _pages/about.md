@@ -28,6 +28,16 @@ Project: Visual Stories from Free-Form Language with Generative Models.
 
 Selected Publications
 -----
+<table >
+<tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/suicide.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Analysis and evaluation of explainable artificial intelligence on suicide risk assessment </strong>  <br> Hao Tang <span style="text-decoration:underline">A.M. Rekavandi</span>, Dharjinder Rooprai, Girish Dwivedi, Frank M. Sanfilippo, Farid Boussaid & M. Bennamoun<br>
+<i> <strong>Scientific Reports</strong>, 2024 </i> <br>
+<a href="https://www.nature.com/articles/s41598-024-53426-0" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Nature</a> <a href="https://github.com/arekavandi/XAI_Suicide" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a> </p> </td> 
+</tr>
+</tbody>
+</table>
 
 <table >
 <tbody>
