@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Aref Miri Rekavandi"
   avatar           : "profile.png"
-  bio              : "Research Fellow at UNIMELB"
-  location         : "Melbourne, Australia"
+  bio              : "Research Fellow at Oxford University"
+  location         : "Oxford, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=6cV-GesAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :  "aref.mirirekavandi@unimelb.edu.au"
+  email            :  "aref.mirirekavandi@ndcn.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
