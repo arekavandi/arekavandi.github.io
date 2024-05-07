@@ -30,6 +30,18 @@ Selected Publications
 -----
 <table >
 <tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/SPCA.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong>  Learning Robust and Sparse Principal Components with the α-Divergence </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, A.K. Seghouane, & R.J. Evans<br>
+<i> <strong>IEEE Transactions on Image Processing</strong>, 2024 </i> <br>
+<a href="https://ieeexplore.ieee.org/abstract/document/9426446" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a>  <a href="https://github.com/arekavandi/Robust_PCA" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> </p> </td> 
+</tr>
+</tbody>
+</table>
+
+
+<table >
+<tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/suicide.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Analysis and evaluation of explainable artificial intelligence on suicide risk assessment </strong>  <br> Hao Tang, <span style="text-decoration:underline">A.M. Rekavandi</span>, Dharjinder Rooprai, Girish Dwivedi, Frank M. Sanfilippo, Farid Boussaid & M. Bennamoun<br>
@@ -90,6 +102,7 @@ Selected Publications
 
 News
 ======
+* 5/2024: Our paper on Robust and Sparse PCA has been accepted in IEEE TIP.
 * 3/2024: Our paper on suicide risk assesment using XAI framework has been accepted in Scientific Reports. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-16/))
 * 3/2024: I have been appointed as a Postdoctoral Researcher at Nuffield Department of Clinical Neurosciences, Medical School Devision, University of Oxford.
 * 10/2023: I have been appointed as a Postdoctoral Research Fellow working with "CATCH" centre at CIS School, The University of Melbourne.

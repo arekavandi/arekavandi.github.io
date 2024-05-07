@@ -11,8 +11,9 @@ redirect_from:
 
 Academic Roles
 ======
-* Research Fellow – AI-Human Teams for Cybersecurity at School of Computing and Information Systems, The Unversity of Melbourne, November 2023 - Present.
-* Guest Academic at School of Mathematics and Statistics, The University of Melbourne, March 2022 - Present.
+* Postdoctoral Researcher at WIN, The University of Oxford, March 2024 - Present.
+* Research Fellow – AI-Human Teams for Cybersecurity at School of Computing and Information Systems, The Unversity of Melbourne, November 2023 - March 2024.
+* Guest Academic at School of Mathematics and Statistics, The University of Melbourne, March 2022 - March 2024.
 * Research Fellow - Deep learning and Computer Vision at Department of Computer Science and Software Engineering, The Unversity of Western Australia, September 2021 - October 2023.
 * Visiting Researcher at Nuffield Department of Clinical Neurosciences , University of Oxford, May 2023 - July 2023. 
 
