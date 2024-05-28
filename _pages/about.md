@@ -102,7 +102,7 @@ Selected Publications
 
 News
 ======
-* 5/2024: Our paper on Robust and Sparse PCA has been accepted in IEEE TIP.
+* 5/2024: Our paper on Robust and Sparse PCA has been accepted in IEEE TIP. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-17/))
 * 3/2024: Our paper on suicide risk assesment using XAI framework has been accepted in Scientific Reports. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-16/))
 * 3/2024: I have been appointed as a Postdoctoral Researcher at Nuffield Department of Clinical Neurosciences, Medical School Devision, University of Oxford.
 * 10/2023: I have been appointed as a Postdoctoral Research Fellow working with "CATCH" centre at CIS School, The University of Melbourne.
