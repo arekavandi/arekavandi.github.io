@@ -34,7 +34,7 @@ Selected Publications
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  Learning Robust and Sparse Principal Components with the α-Divergence </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, A.K. Seghouane, & R.J. Evans<br>
 <i> <strong>IEEE Transactions on Image Processing</strong>, 2024 </i> <br>
-<a href="https://ieeexplore.ieee.org/abstract/document/9426446" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a>  <a href="https://github.com/arekavandi/Robust_PCA" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> </p> </td> 
+<a href="https://ieeexplore.ieee.org/document/10539627" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a>  <a href="https://github.com/arekavandi/Robust_PCA" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> </p> </td> 
 </tr>
 </tbody>
 </table>
