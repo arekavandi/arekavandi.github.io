@@ -105,7 +105,7 @@ News
 * 5/2024: Our paper on Robust and Sparse PCA has been accepted in IEEE TIP. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-17/))
 * 3/2024: Our paper on suicide risk assesment using XAI framework has been accepted in Scientific Reports. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-16/))
 * 3/2024: I have been appointed as a Postdoctoral Researcher at Nuffield Department of Clinical Neurosciences, Medical School Devision, University of Oxford.
-* 10/2023: I have been appointed as a Postdoctoral Research Fellow working with "CATCH" centre at CIS School, The University of Melbourne.
+* 10/2023: I have been appointed as a Postdoctoral Research Fellow working with "CATCH" at CIS School, The University of Melbourne.
 * 9/2023: Our survey paper on transformers in small object detection is now online. ([Link](https://arxiv.org/abs/2309.04902))
 * 8/2023: Our paper on Bayesian Pose Estimation has been accepted in IEEE RA-L. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-15/))
 * 6/2023: Our paper on Subspace Tracking Systems has been accepted in IEEE TSP. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-14/))
