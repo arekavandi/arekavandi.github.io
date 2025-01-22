@@ -26,8 +26,51 @@ Engineering, The University of Western Australia.
 Project: Visual Stories from Free-Form Language with Generative Models.
 
 
+News
+======
+* 12/2024: Our Guide paper on small object detection has been accepted in IEEE T-ITS. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-19/))
+* 10/2024: I have been appointed as AE of IEEE Transactions on Image Processing.
+* 9/2024: Our paper on Certified Adversarial Robustness has been accepted in NeurIPS2024. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-18/))
+* 5/2024: Our paper on Robust and Sparse PCA has been accepted in IEEE TIP. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-17/))
+* 3/2024: Our paper on suicide risk assesment using XAI framework has been accepted in Scientific Reports. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-16/))
+* 3/2024: I have been appointed as a Postdoctoral Researcher at Nuffield Department of Clinical Neurosciences, Medical School Devision, University of Oxford.
+* 10/2023: I have been appointed as a Postdoctoral Research Fellow working with "CATCH" at CIS School, The University of Melbourne.
+* 9/2023: Our survey paper on transformers in small object detection is now online. ([Link](https://arxiv.org/abs/2309.04902))
+* 8/2023: Our paper on Bayesian Pose Estimation has been accepted in IEEE RA-L. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-15/))
+* 6/2023: Our paper on Subspace Tracking Systems has been accepted in IEEE TSP. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-14/))
+* 6/2023: Our paper on Robust Block-Structured Dictionary Learning (RBDL) has been accepted in Pattern Recognition Letters. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-13/))
+* 4/2023: Our paper on pose estimation has been accepted in Pattern Recognition. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-12/))
+* 3/2023: I have been appointed as a Visiting Researcher at Nuffield Department of Clinical Neurosciences, Medical School Devision, University of Oxford.
+* 2/2023: Two accepted papers for presentation at ICASSP 2023. ([Link1](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-11/)) ([Link2](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-10/))
+* 1/2023: Our grant proposal: "Analytics for the Australian Grains Industry (AAGI)" has been successfully accepted for Associate Partnership level.  
+* 12/2022: We have discussed recent advances in small object detection in our workshop held in conjunction with ACCV2022. ([Link](https://sites.google.com/view/dlsod2022/home))
+* 3/2022: I have been appointed as the visiting scholar at School of Mathematics and Statistics, The University of Melburne.
+
 Selected Publications
 -----
+<table >
+<tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/SPCA.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong>  A guide to image and video based small object detection using deep learning: Case study of maritime surveillance </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, Lian Xu, Farid Boussaid, Abd-Krim Seghouane, Stephen Hoefs & Mohammed Bennamoun <br>
+<i> <strong>IEEE Transactions on Intelligent Transportation Systems</strong>, 2025 </i> <br>
+<a href="https://arxiv.org/abs/2207.12926" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a>  </p> </td> 
+</tr>
+</tbody>
+</table>
+
+<table >
+<tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/SPCA.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong>  Certified Adversarial Robustness via Randomized α-Smoothing for Regression Models </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, F. Farokhi, O. Ohrimenko & B. Rubinstein<br>
+<i> <strong>NeurIPS</strong>, 2024 </i> <br>
+<a href="https://openreview.net/pdf?id=jLUbLxa4XV" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/arekavandi/Certified_adv_RRegression/" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a> </p> </td> 
+</tr>
+</tbody>
+</table>
+
+
 <table >
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/SPCA.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
@@ -100,21 +143,3 @@ Selected Publications
 </table>
 
 
-News
-======
-* 10/2024: I have been appointed as AE of IEEE Transactions on Image Processing.
-* 9/2024: Our paper on Certified Adversarial Robustness has been accepted in NeurIPS2024. ([Link](https://github.com/arekavandi/Certified_adv_RRegression))
-* 5/2024: Our paper on Robust and Sparse PCA has been accepted in IEEE TIP. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-17/))
-* 3/2024: Our paper on suicide risk assesment using XAI framework has been accepted in Scientific Reports. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-16/))
-* 3/2024: I have been appointed as a Postdoctoral Researcher at Nuffield Department of Clinical Neurosciences, Medical School Devision, University of Oxford.
-* 10/2023: I have been appointed as a Postdoctoral Research Fellow working with "CATCH" at CIS School, The University of Melbourne.
-* 9/2023: Our survey paper on transformers in small object detection is now online. ([Link](https://arxiv.org/abs/2309.04902))
-* 8/2023: Our paper on Bayesian Pose Estimation has been accepted in IEEE RA-L. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-15/))
-* 6/2023: Our paper on Subspace Tracking Systems has been accepted in IEEE TSP. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-14/))
-* 6/2023: Our paper on Robust Block-Structured Dictionary Learning (RBDL) has been accepted in Pattern Recognition Letters. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-13/))
-* 4/2023: Our paper on pose estimation has been accepted in Pattern Recognition. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-12/))
-* 3/2023: I have been appointed as a Visiting Researcher working with [Prof. Saad Jbabdi](https://www.ndcn.ox.ac.uk/team/saad-jbabdi) at Nuffield Department of Clinical Neurosciences, Medical School Devision, University of Oxford.
-* 2/2023: Two accepted papers for presentation at ICASSP 2023. ([Link1](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-11/)) ([Link2](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-10/))
-* 1/2023: Our grant proposal: "Analytics for the Australian Grains Industry (AAGI)" is successfully accepted for Associate Partnership level.  
-* 12/2022: We have discussed recent advances in small object detection in our workshop held in conjunction with ACCV2022. ([Link](https://sites.google.com/view/dlsod2022/home))
-* 3/2022: I have been appointed as the visiting scholar working with [A/Prof. Karim Seghouane](https://findanexpert.unimelb.edu.au/profile/470194-karim-seghouane) at School of Mathematics and Statistics, The University of Melburne.
