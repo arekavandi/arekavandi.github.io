@@ -50,7 +50,7 @@ Selected Publications
 -----
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/SPCA.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/SOD.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  A guide to image and video based small object detection using deep learning: Case study of maritime surveillance </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, Lian Xu, Farid Boussaid, Abd-Krim Seghouane, Stephen Hoefs & Mohammed Bennamoun <br>
 <i> <strong>IEEE Transactions on Intelligent Transportation Systems</strong>, 2025 </i> <br>
@@ -61,7 +61,7 @@ Selected Publications
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/SPCA.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/CER.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  Certified Adversarial Robustness via Randomized α-Smoothing for Regression Models </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, F. Farokhi, O. Ohrimenko & B. Rubinstein<br>
 <i> <strong>NeurIPS</strong>, 2024 </i> <br>
