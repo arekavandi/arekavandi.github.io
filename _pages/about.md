@@ -52,7 +52,7 @@ Selected Publications
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/SOD.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong>  A guide to image and video based small object detection using deep learning: Case study of maritime surveillance </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, Lian Xu, Farid Boussaid, Abd-Krim Seghouane, Stephen Hoefs & Mohammed Bennamoun <br>
+<strong>  A guide to image and video based small object detection using deep learning: Case study of maritime surveillance </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, L. Xu, F. Boussaid, A.K. Seghouane, S. Hoefs & M. Bennamoun <br>
 <i> <strong>IEEE Transactions on Intelligent Transportation Systems</strong>, 2025 </i> <br>
 <a href="https://arxiv.org/abs/2207.12926" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a>  </p> </td> 
 </tr>
@@ -87,7 +87,7 @@ Selected Publications
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/suicide.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong> Analysis and evaluation of explainable artificial intelligence on suicide risk assessment </strong>  <br> Hao Tang, <span style="text-decoration:underline">A.M. Rekavandi</span>, Dharjinder Rooprai, Girish Dwivedi, Frank M. Sanfilippo, Farid Boussaid & M. Bennamoun<br>
+<strong> Analysis and evaluation of explainable artificial intelligence on suicide risk assessment </strong>  <br> H. Tang, <span style="text-decoration:underline">A.M. Rekavandi</span>, D. Rooprai, G. Dwivedi, F.M. Sanfilippo, F. Boussaid & M. Bennamoun<br>
 <i> <strong>Scientific Reports</strong>, 2024 </i> <br>
 <a href="https://www.nature.com/articles/s41598-024-53426-0" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Nature</a> <a href="https://github.com/arekavandi/XAI_Suicide" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a> </p> </td> 
 </tr>

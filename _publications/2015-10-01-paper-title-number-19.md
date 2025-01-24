@@ -3,7 +3,7 @@ title: "A guide to image and video based small object detection using deep learn
 collection: publications
 excerpt: 'Aref Miri Rekavandi, Lian Xu, Farid Boussaid, Abd-Krim Seghouane, Stephen Hoefs and Mohammed Bennamoun'
 date: 2025-01-25
-venue: 'IEEE Transactions on on Intelligent Transportation Systems'
+venue: 'IEEE Transactions on Intelligent Transportation Systems'
 ---
 [Paper](https://arxiv.org/abs/2207.12926) 
 
