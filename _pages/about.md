@@ -28,6 +28,7 @@ Project: Visual Stories from Free-Form Language with Generative Models.
 
 News
 ======
+* 2/2025: IT-RUDA has been accepted for publication in ACM TIST. 
 * 12/2024: Our Guide paper on small object detection has been accepted in IEEE T-ITS. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-19/))
 * 10/2024: I have been appointed as AE of IEEE Transactions on Image Processing.
 * 9/2024: Our paper on Certified Adversarial Robustness has been accepted in NeurIPS2024. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-18/))
