@@ -55,7 +55,7 @@ Selected Publications
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  A guide to image and video based small object detection using deep learning: Case study of maritime surveillance </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, L. Xu, F. Boussaid, A.K. Seghouane, S. Hoefs & M. Bennamoun <br>
 <i> <strong>IEEE Transactions on Intelligent Transportation Systems</strong>, 2025 </i> <br>
-<a href="https://arxiv.org/abs/2207.12926" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a>  </p> </td> 
+<a href="https://ieeexplore.ieee.org/document/10887401" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a>  </p> </td> 
 </tr>
 </tbody>
 </table>
