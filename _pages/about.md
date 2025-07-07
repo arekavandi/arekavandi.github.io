@@ -54,7 +54,7 @@ Selected Publications
 -----
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/SOD.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/ITRUDA.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  IT-RUDA: Information Theory Assisted Robust Unsupervised Domain Adaptation </strong>  <br> S. Rashidi, R. Tennakoon <span style="text-decoration:underline">A.M. Rekavandi</span>, et al.<br>
 <i> <strong>ACM Transactions on Intelligent Systems and Technology</strong>, 2025 </i> <br>
