@@ -56,7 +56,7 @@ Selected Publications
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/RSREG.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong>  RS-Reg: Probabilistic and Robust Certified Regression through Randomized Smoothing </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, O. Ohrimenko & B. Rubinstein<br>
+<strong>  RS-Reg: Probabilistic and Robust Certified Regression through Randomized Smoothing </strong>  <br>  <span style="text-decoration:underline">A. M. Rekavandi</span>, O. Ohrimenko & B. Rubinstein<br>
 <i> <strong>TMLR</strong>, 2025 </i> <br>
 <a href="https://openreview.net/pdf?id=AcLlg4J52H" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/arekavandi/Certified_Robust_Regression" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a> </p> </td> 
 </tr>
@@ -67,7 +67,7 @@ Selected Publications
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/ITRUDA.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong>  IT-RUDA: Information Theory Assisted Robust Unsupervised Domain Adaptation </strong>  <br> S. Rashidi, R. Tennakoon, <span style="text-decoration:underline">A.M. Rekavandi</span>, et al.<br>
+<strong>  IT-RUDA: Information Theory Assisted Robust Unsupervised Domain Adaptation </strong>  <br> S. Rashidi, R. Tennakoon, <span style="text-decoration:underline">A. M. Rekavandi</span>, et al.<br>
 <i> <strong>ACM Transactions on Intelligent Systems and Technology</strong>, 2025 </i> <br>
 <a href="https://dl.acm.org/doi/abs/10.1145/3716853" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>ACM</a> <a href="https://github.com/rashidis/IT-RUDA" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a>  </p> </td> 
 </tr>
@@ -78,7 +78,7 @@ Selected Publications
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/SOD.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong>  A guide to image and video based small object detection using deep learning: Case study of maritime surveillance </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, L. Xu, F. Boussaid, A.K. Seghouane, S. Hoefs & M. Bennamoun <br>
+<strong>  A guide to image and video based small object detection using deep learning: Case study of maritime surveillance </strong>  <br>  <span style="text-decoration:underline">A. M. Rekavandi</span>, L. Xu, F. Boussaid, A.K. Seghouane, S. Hoefs & M. Bennamoun <br>
 <i> <strong>IEEE Transactions on Intelligent Transportation Systems</strong>, 2025 </i> <br>
 <a href="https://ieeexplore.ieee.org/document/10887401" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a> <a href="https://github.com/arekavandi/Datasets_SOD" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Datasets</a>  </p> </td> 
 </tr>
@@ -89,7 +89,7 @@ Selected Publications
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/CER.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong>  Certified Adversarial Robustness via Randomized α-Smoothing for Regression Models </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, F. Farokhi, O. Ohrimenko & B. Rubinstein<br>
+<strong>  Certified Adversarial Robustness via Randomized α-Smoothing for Regression Models </strong>  <br>  <span style="text-decoration:underline">A. M. Rekavandi</span>, F. Farokhi, O. Ohrimenko & B. Rubinstein<br>
 <i> <strong>NeurIPS</strong>, 2024 </i> <br>
 <a href="https://openreview.net/pdf?id=jLUbLxa4XV" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/arekavandi/Certified_adv_RRegression/" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a> </p> </td> 
 </tr>
@@ -101,7 +101,7 @@ Selected Publications
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/SPCA.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong>  Learning Robust and Sparse Principal Components with the α-Divergence </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, A.K. Seghouane, & R.J. Evans<br>
+<strong>  Learning Robust and Sparse Principal Components with the α-Divergence </strong>  <br>  <span style="text-decoration:underline">A. M. Rekavandi</span>, A.K. Seghouane, & R.J. Evans<br>
 <i> <strong>IEEE Transactions on Image Processing</strong>, 2024 </i> <br>
 <a href="https://ieeexplore.ieee.org/document/10539627" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a>  <a href="https://github.com/arekavandi/Robust_PCA" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> </p> </td> 
 </tr>
@@ -113,7 +113,7 @@ Selected Publications
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/suicide.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong> Analysis and evaluation of explainable artificial intelligence on suicide risk assessment </strong>  <br> H. Tang, <span style="text-decoration:underline">A.M. Rekavandi</span>, D. Rooprai, G. Dwivedi, F.M. Sanfilippo, F. Boussaid & M. Bennamoun<br>
+<strong> Analysis and evaluation of explainable artificial intelligence on suicide risk assessment </strong>  <br> H. Tang, <span style="text-decoration:underline">A. M. Rekavandi</span>, D. Rooprai, G. Dwivedi, F.M. Sanfilippo, F. Boussaid & M. Bennamoun<br>
 <i> <strong>Scientific Reports</strong>, 2024 </i> <br>
 <a href="https://www.nature.com/articles/s41598-024-53426-0" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Nature</a> <a href="https://github.com/arekavandi/XAI_Suicide" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a> </p> </td> 
 </tr>
@@ -124,7 +124,7 @@ Selected Publications
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/BPOSE.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong> B-Pose: Bayesian Deep Network for Camera 6-DoF Pose Estimation from RGB Images </strong>  <br> <span style="text-decoration:underline">A.M. Rekavandi</span>, F. Boussaid, A.K. Seghouane, & M. Bennamoun<br>
+<strong> B-Pose: Bayesian Deep Network for Camera 6-DoF Pose Estimation from RGB Images </strong>  <br> <span style="text-decoration:underline">A. M. Rekavandi</span>, F. Boussaid, A.K. Seghouane, & M. Bennamoun<br>
 <i> <strong>IEEE Robotics and Automation Letters</strong>, 2023 </i> <br>
 <a href="https://ieeexplore.ieee.org/abstract/document/10242363" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
 <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.21951398.v1" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/arekavandi/BPose" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a> </p> </td> 
@@ -137,7 +137,7 @@ Selected Publications
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/RST.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong>  TRPAST: A tunable and robust projection approximation subspace tracking method </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, A.K. Seghouane, & K. Abed-Meraim<br>
+<strong>  TRPAST: A tunable and robust projection approximation subspace tracking method </strong>  <br>  <span style="text-decoration:underline">A. M. Rekavandi</span>, A.K. Seghouane, & K. Abed-Meraim<br>
 <i> <strong>IEEE Transactions on Signal Processing</strong>, 2023 </i> <br>
 <a href="https://ieeexplore.ieee.org/abstract/document/10164018" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a>  <a href="https://github.com/arekavandi/TRPAST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> </p> </td> 
 </tr>
@@ -149,7 +149,7 @@ Selected Publications
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/Banded.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong>  Adaptive brain activity detection in structured interference and partially homogeneous locally correlated disturbance </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, A.K. Seghouane, & R.J. Evans<br>
+<strong>  Adaptive brain activity detection in structured interference and partially homogeneous locally correlated disturbance </strong>  <br>  <span style="text-decoration:underline">A. M. Rekavandi</span>, A.K. Seghouane, & R.J. Evans<br>
 <i> <strong>IEEE Transactions on Biomedical Engineering</strong>, 2022 </i> <br>
 <a href="https://ieeexplore.ieee.org/abstract/document/9740406" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a>  <a href="https://github.com/arekavandi/Banded_Detection" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> </p> </td> 
 </tr>
@@ -161,7 +161,7 @@ Selected Publications
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/RSD.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong>  Robust Subspace Detectors Based on α-Divergence With Application to Detection in Imaging </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, A.K. Seghouane, & R.J. Evans<br>
+<strong>  Robust Subspace Detectors Based on α-Divergence With Application to Detection in Imaging </strong>  <br>  <span style="text-decoration:underline">A. M. Rekavandi</span>, A.K. Seghouane, & R.J. Evans<br>
 <i> <strong>IEEE Transactions on Image Processing</strong>, 2021 </i> <br>
 <a href="https://ieeexplore.ieee.org/abstract/document/9426446" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a>  <a href="https://github.com/arekavandi/Robust_Subspace_Detector" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> </p> </td> 
 </tr>
