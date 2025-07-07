@@ -32,7 +32,7 @@ News
 * 6/2025: Our evaluation of deep learning models' perfromance in Carotid Bruits detection task has been accepted for publication in IEEE ACCESS.
 * 4/2025: B2B has been accepted for publication in IEEE TMM.
 * 4/2025: RS-Reg has been accepted for publication in TMLR.
-* 2/2025: IT-RUDA has been accepted for publication in ACM TIST. 
+* 2/2025: IT-RUDA has been accepted for publication in ACM TIST. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-20/))
 * 12/2024: Our Guide paper on small object detection has been accepted in IEEE T-ITS. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-19/))
 * 10/2024: I have been appointed as the AE of IEEE Transactions on Image Processing.
 * 9/2024: Our paper on Certified Adversarial Robustness has been accepted in NeurIPS2024. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-18/))
@@ -56,7 +56,7 @@ Selected Publications
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/ITRUDA.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong>  IT-RUDA: Information Theory Assisted Robust Unsupervised Domain Adaptation </strong>  <br> S. Rashidi, R. Tennakoon <span style="text-decoration:underline">A.M. Rekavandi</span>, et al.<br>
+<strong>  IT-RUDA: Information Theory Assisted Robust Unsupervised Domain Adaptation </strong>  <br> S. Rashidi, R. Tennakoon, <span style="text-decoration:underline">A.M. Rekavandi</span>, et al.<br>
 <i> <strong>ACM Transactions on Intelligent Systems and Technology</strong>, 2025 </i> <br>
 <a href="https://dl.acm.org/doi/abs/10.1145/3716853" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>ACM</a> <a href="https://github.com/rashidis/IT-RUDA" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a>  </p> </td> 
 </tr>
