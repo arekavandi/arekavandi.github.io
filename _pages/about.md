@@ -56,6 +56,17 @@ Selected Publications
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/SOD.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
+<strong>  IT-RUDA: Information Theory Assisted Robust Unsupervised Domain Adaptation </strong>  <br> S. Rashidi, R. Tennakoon <span style="text-decoration:underline">A.M. Rekavandi</span>, et al.<br>
+<i> <strong>ACM Transactions on Intelligent Systems and Technology</strong>, 2025 </i> <br>
+<a href="https://dl.acm.org/doi/abs/10.1145/3716853" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>ACM</a> <a href="https://github.com/rashidis/IT-RUDA" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a>  </p> </td> 
+</tr>
+</tbody>
+</table>
+
+<table >
+<tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/SOD.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
 <strong>  A guide to image and video based small object detection using deep learning: Case study of maritime surveillance </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, L. Xu, F. Boussaid, A.K. Seghouane, S. Hoefs & M. Bennamoun <br>
 <i> <strong>IEEE Transactions on Intelligent Transportation Systems</strong>, 2025 </i> <br>
 <a href="https://ieeexplore.ieee.org/document/10887401" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a> <a href="https://github.com/arekavandi/Datasets_SOD" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Datasets</a>  </p> </td> 
