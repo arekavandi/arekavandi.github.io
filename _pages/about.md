@@ -31,7 +31,7 @@ News
 * 6/2025: I presented our technique for Connectivity Gradient estimation in OHBM 2025, Australia.
 * 6/2025: Our evaluation of deep learning models' perfromance in Carotid Bruits detection task has been accepted for publication in IEEE ACCESS.
 * 4/2025: B2B has been accepted for publication in IEEE TMM.
-* 4/2025: RS-Reg has been accepted for publication in TMLR.
+* 4/2025: RS-Reg has been accepted for publication in TMLR. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-21/))
 * 2/2025: IT-RUDA has been accepted for publication in ACM TIST. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-20/))
 * 12/2024: Our Guide paper on small object detection has been accepted in IEEE T-ITS. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-19/))
 * 10/2024: I have been appointed as the AE of IEEE Transactions on Image Processing.
@@ -52,6 +52,17 @@ News
 
 Selected Publications
 -----
+<table >
+<tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/RSREG.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong>  RS-Reg: Probabilistic and Robust Certified Regression through Randomized Smoothing </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, O. Ohrimenko & B. Rubinstein<br>
+<i> <strong>TMLR</strong>, 2025 </i> <br>
+<a href="https://openreview.net/forum?id=AcLlg4J52H" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/arekavandi/Certified_Robust_Regression" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a> </p> </td> 
+</tr>
+</tbody>
+</table>
+
 <table >
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/ITRUDA.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
