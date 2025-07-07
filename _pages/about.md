@@ -58,7 +58,7 @@ Selected Publications
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  RS-Reg: Probabilistic and Robust Certified Regression through Randomized Smoothing </strong>  <br>  <span style="text-decoration:underline">A.M. Rekavandi</span>, O. Ohrimenko & B. Rubinstein<br>
 <i> <strong>TMLR</strong>, 2025 </i> <br>
-<a href="https://openreview.net/forum?id=AcLlg4J52H" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/arekavandi/Certified_Robust_Regression" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a> </p> </td> 
+<a href="https://openreview.net/pdf?id=AcLlg4J52H" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/arekavandi/Certified_Robust_Regression" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a> </p> </td> 
 </tr>
 </tbody>
 </table>
