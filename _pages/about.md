@@ -28,7 +28,10 @@ Project: Visual Stories from Free-Form Language with Generative Models.
 
 News
 ======
-* 2/2025: I will be presenting our technique for Connectivity Gradient estimation in OHBM 2025, Australia.
+* 6/2025: I presented our technique for Connectivity Gradient estimation in OHBM 2025, Australia.
+* 6/2025: Our evaluation of deep learning models' perfromance in Carotid Bruits detection task has been accepted for publication in IEEE ACCESS.
+* 4/2025: B2B has been accepted for publication in IEEE TMM.
+* 4/2025: RS-Reg has been accepted for publication in TMLR.
 * 2/2025: IT-RUDA has been accepted for publication in ACM TIST. 
 * 12/2024: Our Guide paper on small object detection has been accepted in IEEE T-ITS. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-19/))
 * 10/2024: I have been appointed as the AE of IEEE Transactions on Image Processing.
