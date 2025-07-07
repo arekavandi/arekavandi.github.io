@@ -54,6 +54,17 @@ Selected Publications
 -----
 <table >
 <tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/CB.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong>  Can Deep Learning Models Acquire Specialist Knowledge? Identifying Carotid Bruits in Type 2 Diabetes Using an Electronic Stethoscope </strong>  <br> <span style="text-decoration:underline">A. M. Rekavandi</span>, M. Bennamoun, F. Boussaid, W. A. Davis and T. M.E. Davis<br>
+<i> <strong>IEEE ACCESS</strong>, 2025 </i> <br>
+<a href="https://ieeexplore.ieee.org/abstract/document/11050375/authors#authors" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a> <a href="https://github.com/arekavandi/Carotid_Bruit" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a>  </p> </td> 
+</tr>
+</tbody>
+</table>
+
+<table >
+<tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/B2B.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  Box It to Bind It: Unified Layout Control and Attribute Binding in T2I Diffusion Models </strong>  <br> A. Taghipour, M. Ghahremani, M. Bennamoun,  <span style="text-decoration:underline">A. M. Rekavandi</span>, H. Laga, F. Boussaid<br>
