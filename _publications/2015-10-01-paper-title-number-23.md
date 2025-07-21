@@ -2,7 +2,7 @@
 title: "Can Deep Learning Models Acquire Specialist Knowledge? Identifying Carotid Bruits in Type 2 Diabetes Using an Electronic Stethoscope"
 collection: publications
 excerpt: 'Aref Miri Rekavandi, Mohammed Bennamoun, Farid Boussaid, Wendy A. Davis and Timothy M.E. Davis'
-date: 2025-006-01
+date: 2025-06-01
 venue: 'IEEE ACCESS'
 ---
 [Paper](https://ieeexplore.ieee.org/abstract/document/11050375/authors#authors) [Code](https://github.com/arekavandi/Carotid_Bruit)
