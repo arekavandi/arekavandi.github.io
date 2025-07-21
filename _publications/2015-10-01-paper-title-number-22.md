@@ -2,7 +2,7 @@
 title: "Box It to Bind It: Unified Layout Control and Attribute Binding in T2I Diffusion Models"
 collection: publications
 excerpt: 'Ashkan Taghipour, Morteza Ghahremani, Mohammed Bennamoun, Aref Miri Rekavandi, Hamid Laga and Farid Boussaid'
-date: 2025-04-01
+date: 2025-04-20
 venue: 'IEEE Transactions on Multimedia'
 ---
 [Paper](https://arxiv.org/abs/2402.17910) [Code](https://github.com/nextaistudio/BoxIt2BindIt)
