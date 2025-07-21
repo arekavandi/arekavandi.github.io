@@ -2,7 +2,7 @@
 title: "RS-Reg: Probabilistic and Robust Certified Regression through Randomized Smoothing"
 collection: publications
 excerpt: 'Aref Miri Rekavandi, Olga Ohrimenko and Benjamin IP Rubinstein'
-date: 2025-04-05
+date: 2025-04-02
 venue: 'Transactions on Machine Learning Research'
 ---
 [Paper](https://openreview.net/forum?id=AcLlg4J52H) [Code](https://github.com/arekavandi/Certified_Robust_Regression)
