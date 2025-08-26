@@ -56,6 +56,17 @@ Selected Publications
 -----
 <table >
 <tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/I2V.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong>  Faster Image2Video Generation: A Closer Look at CLIP Image Embedding’s Impact on Spatio-Temporal Cross-Attentions </strong>  <br> A. Taghipour, M. Ghahremani, M. Bennamoun,  <span style="text-decoration:underline">A. M. Rekavandi</span>, Z. Li, H. Laga, F. Boussaid<br>
+<i> <strong>IEEE ACCESS</strong>, 2025 </i> <br>
+<a href="https://ieeexplore.ieee.org/abstract/document/11114950/authors#authors" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a> <a href="https://github.com/anonymous-coderrs/VCUT/blob/main/README.md" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a>  </p> </td> 
+</tr>
+</tbody>
+</table>
+
+<table >
+<tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/CB.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  Can Deep Learning Models Acquire Specialist Knowledge? Identifying Carotid Bruits in Type 2 Diabetes Using an Electronic Stethoscope </strong>  <br> <span style="text-decoration:underline">A. M. Rekavandi</span>, M. Bennamoun, F. Boussaid, W. A. Davis and T. M.E. Davis<br>
