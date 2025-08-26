@@ -56,9 +56,20 @@ Selected Publications
 -----
 <table >
 <tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/CAT.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong>  Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art </strong>  <br>  <span style="text-decoration:underline">A. M. Rekavandi</span>, S. Rashidi, F. Boussaid, S. Hoefs, E. Akbas & M. Bennamoun <br>
+<i> <strong> ACM Computing Surveys</strong>, 2025 </i> <br>
+<a href="https://dl.acm.org/doi/abs/10.1145/3758090" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>ACM </a> <a href="https://github.com/arekavandi/Transformer-SOD" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>GitHub</a>  </p> </td> 
+</tr>
+</tbody>
+</table>
+
+<table >
+<tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://arekavandi.github.io/images/I2V.JPG" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong>  Faster Image2Video Generation: A Closer Look at CLIP Image Embedding’s Impact on Spatio-Temporal Cross-Attentions </strong>  <br> A. Taghipour, M. Ghahremani, M. Bennamoun,  <span style="text-decoration:underline">A. M. Rekavandi</span>, Z. Li, H. Laga, F. Boussaid<br>
+<strong>  Faster Image2Video Generation: A Closer Look at CLIP Image Embedding’s Impact on Spatio-Temporal Cross-Attentions </strong>  <br> A. Taghipour, M. Ghahremani, M. Bennamoun,  <span style="text-decoration:underline">A. M. Rekavandi</span>, Z. Li, H. Laga & F. Boussaid<br>
 <i> <strong>IEEE ACCESS</strong>, 2025 </i> <br>
 <a href="https://ieeexplore.ieee.org/abstract/document/11114950/authors#authors" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE Xplore</a> <a href="https://github.com/anonymous-coderrs/VCUT/blob/main/README.md" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Python Code</a>  </p> </td> 
 </tr>
