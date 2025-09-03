@@ -28,6 +28,7 @@ Project: Visual Stories from Free-Form Language with Generative Models.
 
 News
 ======
+* 9/2025: My paper on Adaptive Subspace Detection has been accepted for publication in IEEE JSTSP. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-26/))
 * 8/2025: Our survey on Transformers in small object detection has been accepted for publication in ACM Computing Surveys. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-25/))
 * 7/2025: Our fast Image2Video generation technique has been accepted for publication in IEEE ACCESS. ([Link](https://arekavandi.github.io/publications/2015-10-01-paper-title-number-24/))
 * 6/2025: I presented our technique for Connectivity Gradient estimation in OHBM 2025, Australia.
