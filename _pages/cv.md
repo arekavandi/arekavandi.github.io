@@ -21,6 +21,6 @@ Education
 ======
 * B.S. in Electrical and Electronic Engineering, KN Toosi University of Technology, 2013
 * M.S. in Digital Electronic, Amirkabir University of Technology (Tehran Polytechnic), 2016
-* Ph.D in Electrical and Electronic Engineering, The University of Melbourne, 2021 
+* Ph.D. in Electrical and Electronic Engineering, The University of Melbourne, 2021 
 
 For more Info. check my LinkedIn account: ([Link](https://www.linkedin.com/in/aref-miri-rekavandi-41820698/))
